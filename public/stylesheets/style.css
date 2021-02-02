@@ -1,0 +1,42 @@
+body{
+    background-color: palegoldenrod;
+}
+
+
+h1 {
+   background-color: peru;
+}
+
+a{
+    text-decoration: none;
+}
+
+.links{
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.info-tarantino{
+    text-align: justify;
+    margin-left: 5rem ;
+    margin-right:5rem ;
+}
+
+.back-botton{
+    position: relative;
+    left: 42%;
+
+}
+
+img{
+    height: 15rem;
+    width: 10rem;
+    float: left;
+    padding: 1rem;
+}
+
+.photos{
+}
